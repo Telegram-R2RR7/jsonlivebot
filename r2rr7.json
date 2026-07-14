@@ -1,13 +1,13 @@
 [
   {
     "id": "a74653dd",
-    "name": "قناة دجلة",
+    "name": "تيست",
     "logo": "",
     "description": "بث",
     "streams": [
       {
         "label": "1080p",
-        "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+        "url": "http://max-pro.vip:2052/live/18885076681336/14648237268240/701736.ts",
         "user_agent": "",
         "referer": "",
         "clear_key": ""
