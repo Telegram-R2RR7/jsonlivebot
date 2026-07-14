@@ -32,5 +32,22 @@
     ],
     "active": true,
     "created": "2026-07-13T23:13:35.539620"
+  },
+  {
+    "id": "a5a50aec",
+    "name": "BeIN SPORT MAX 1",
+    "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png",
+    "description": "بث مباريات",
+    "streams": [
+      {
+        "label": "1080p",
+        "url": "http://starhub.pro/live/farhat-3379/67897-913379/744517.ts",
+        "user_agent": "",
+        "referer": "",
+        "clear_key": ""
+      }
+    ],
+    "active": true,
+    "created": "2026-07-14T02:43:04.100188"
   }
 ]
